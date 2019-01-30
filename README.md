@@ -1,0 +1,3 @@
+[C++ Library for Implementing Reactive AI](https://code.google.com/archive/p/libbehavior/)
+
+A thoroughly documented library for behavior trees, with usage examples. Behavior trees are a method of programming AI by creating a directed acyclic graph (DAG) where branch nodes evaluate the current condition of the agent and make decisions, and leaf nodes represent the action that was decided upon. This is a flexible, scalable, and modular system for implementing many different types of behavior.
